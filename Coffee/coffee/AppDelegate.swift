@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  Coffee
+//  coffee
 //
-//  Created by 恒川将慶 on 2020/11/16.
+//  Created by 恒川将慶 on 2020/11/17.
 //
 
 import UIKit
